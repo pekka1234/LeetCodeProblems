@@ -1,5 +1,5 @@
 # LeetCodeProblems
-Solved LeetCode problems
+Solved LeetCode problems in python
 
 ## two-sum
 
