@@ -13,6 +13,12 @@ https://leetcode.com/problems/two-sum/
 
 https://leetcode.com/problems/palindrome-number/
 
+## roman-to-integer
+
+"Given a roman numeral, convert it to an integer."
+
+https://leetcode.com/problems/roman-to-integer/
+
 ## valid-parentheses
 
 "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
